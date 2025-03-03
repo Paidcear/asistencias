@@ -1,0 +1,477 @@
+[
+    {
+        "id": 1,
+        "nombre": "Karla Ivonne Flores Montes",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Taniha Rodr\u00edguez Trujano",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Jessica Anadalay Camilo Romano",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Mileny Mendoza Ponce de Le\u00f3n",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Jocelyne Escalante Ojeda",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Andrea Calder\u00f3n Guti\u00e9rrez",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Norma Nancy Cruz Rodr\u00edguez",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Elda Montserrat Morales P\u00e9rez ",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Sarah\u00ed Santamar\u00eda Alonso",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Nancy Itzel Cordero Ram\u00edrez ",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Mar\u00eda Guadalupe L\u00f3pez Trejo",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 12,
+        "nombre": "Ruth D\u00edaz Bejarano",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 13,
+        "nombre": "F\u00e1tima Joselin Rangel Ascencio",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 14,
+        "nombre": "Martha Jovanna Reyes Jim\u00e9nez ",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 15,
+        "nombre": "Estrella Janeth Aguilar Salinas ",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 16,
+        "nombre": "Mar\u00eda de Lourdes Acosta L\u00f3pez",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 17,
+        "nombre": "El\u00edzabeth Mateo Germ\u00e1n",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 18,
+        "nombre": "Karen Itzel Carachuri Rangel ",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 19,
+        "nombre": "Vianey Segundo Pliego",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 20,
+        "nombre": "Barbara Arely Ramos S\u00e1nchez ",
+        "nivel": "Licenciatura",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 21,
+        "nombre": "Myriam Cabanzo Atilano",
+        "nivel": "Bachillerato",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 22,
+        "nombre": "Yaoli Amaztal Ch\u00e1vez",
+        "nivel": "Bachillerato",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 23,
+        "nombre": "Cristal Yareth Aguilar G\u00f3mez ",
+        "nivel": "Bachillerato",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 24,
+        "nombre": "Br\u00edgido Mendoza Diego Osiris",
+        "nivel": "Bachillerato",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    },
+    {
+        "id": 25,
+        "nombre": "Mar\u00eda  Guadalupe Vel\u00e1zquez Romero",
+        "nivel": "Bachillerato",
+        "asistencias": 0,
+        "retardos": 0,
+        "Martes": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "Mi\u00e9rcoles": {
+            "asistencias": 0,
+            "retardos": 0
+        },
+        "S\u00e1bado": {
+            "asistencias": 0,
+            "retardos": 0
+        }
+    }
+]
