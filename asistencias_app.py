@@ -1,10 +1,16 @@
 import streamlit as st
 import pandas as pd
 import json
+import os
 import matplotlib.pyplot as plt
 
-# Archivo JSON para almacenar los datos
-data_file = "asistencias.json"
+# Directorio y archivo JSON para almacenar los datos
+data_directory = "C:/asistencias_app"
+data_file = os.path.join(data_directory, "asistencias.json")
+
+# Asegurarse de que el directorio exista
+if not os.path.exists(data_directory):
+    os.makedirs(data_directory)
 
 # Función para cargar los datos del archivo JSON
 def load_data():
